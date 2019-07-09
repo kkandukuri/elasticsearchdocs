@@ -17,6 +17,9 @@ GET products1/_search
     }
   }
 }
+
+
+
 //delete the item
 POST products1/_delete_by_query
 {
